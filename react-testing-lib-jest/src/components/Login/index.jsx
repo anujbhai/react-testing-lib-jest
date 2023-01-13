@@ -20,6 +20,8 @@ const Login = () => {
       setError(true);
       console.log(err);
     }
+
+    setLoading(false);
   };
 
   return (
