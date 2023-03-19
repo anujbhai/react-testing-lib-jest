@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1675265545053" clover="3.2.0">
-  <project timestamp="1675265545053" name="All files">
-    <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1" elements="7" coveredelements="7" complexity="0" loc="4" ncloc="4" packages="1" files="1" classes="1"/>
-    <file name="woof.js" path="/root/local-repos/learning/js/demos/testing/js-test-basic-jest/woof.js">
+<coverage generated="1679209128333" clover="3.2.0">
+  <project timestamp="1679209128333" name="All files">
+    <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1" elements="9" coveredelements="9" complexity="0" loc="6" ncloc="6" packages="1" files="2" classes="2"/>
+    <file name="mew.js" path="C:\Users\anuj\Desktop\anuj\local\learn\js\demos\testing\lamadev-react-testing-lib-jest\js-test-basic-jest\mew.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+    </file>
+    <file name="woof.js" path="C:\Users\anuj\Desktop\anuj\local\learn\js\demos\testing\lamadev-react-testing-lib-jest\js-test-basic-jest\woof.js">
       <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
       <line num="2" count="2" type="cond" truecount="2" falsecount="0"/>
       <line num="3" count="1" type="stmt"/>
