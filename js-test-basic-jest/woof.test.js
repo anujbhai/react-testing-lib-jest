@@ -13,3 +13,5 @@ test("should return null when string not provided", function () {
   // expect(result).toBeNull();
 });
 
+test.todo("should not allow numbers to be passed.");
+
