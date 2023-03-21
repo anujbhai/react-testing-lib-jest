@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1679333011442" clover="3.2.0">
-  <project timestamp="1679333011442" name="All files">
-    <metrics statements="29" coveredstatements="29" conditionals="15" coveredconditionals="14" methods="6" coveredmethods="6" elements="50" coveredelements="49" complexity="0" loc="29" ncloc="29" packages="2" files="2" classes="2"/>
+<coverage generated="1679378985255" clover="3.2.0">
+  <project timestamp="1679378985255" name="All files">
+    <metrics statements="48" coveredstatements="48" conditionals="25" coveredconditionals="24" methods="7" coveredmethods="7" elements="80" coveredelements="79" complexity="0" loc="48" ncloc="48" packages="2" files="3" classes="3"/>
     <package name="src">
       <metrics statements="24" coveredstatements="24" conditionals="15" coveredconditionals="14" methods="4" coveredmethods="4"/>
       <file name="generateItem.js" path="C:\Users\anuj\Desktop\anuj\local\learn\js\demos\testing\lamadev-react-testing-lib-jest\js-reveal-weakspots-with-coverage\src\generateItem.js">
@@ -33,7 +33,29 @@
       </file>
     </package>
     <package name="src.utils">
-      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <metrics statements="24" coveredstatements="24" conditionals="10" coveredconditionals="10" methods="3" coveredmethods="3"/>
+      <file name="getBiggestChange.js" path="C:\Users\anuj\Desktop\anuj\local\learn\js\demos\testing\lamadev-react-testing-lib-jest\js-reveal-weakspots-with-coverage\src\utils\getBiggestChange.js">
+        <metrics statements="19" coveredstatements="19" conditionals="10" coveredconditionals="10" methods="1" coveredmethods="1"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="10" count="5" type="cond" truecount="4" falsecount="0"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="14" count="4" type="stmt"/>
+        <line num="15" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="18" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="21" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="31" count="3" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+      </file>
       <file name="helper.js" path="C:\Users\anuj\Desktop\anuj\local\learn\js\demos\testing\lamadev-react-testing-lib-jest\js-reveal-weakspots-with-coverage\src\utils\helper.js">
         <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
         <line num="2" count="26" type="stmt"/>
